@@ -1,0 +1,35 @@
+{
+  "user_info": {
+    "uid": 435776729,
+    "total_videos": 2,
+    "crawl_time": "2025-12-08 18:23:47"
+  },
+  "videos": [
+    {
+      "aid": 987654321,
+      "bvid": "BV1xxxxxx1",
+      "title": "测试视频1 - 我做了一个会打字的键盘",
+      "url": "https://www.bilibili.com/video/BV1xxxxxx1",
+      "duration": "10:30",
+      "created": 1703123456,
+      "view": 1000000,
+      "danmaku": 5000,
+      "reply": 2000,
+      "pic": "http://example.com/pic1.jpg",
+      "description": "这是一个测试视频描述"
+    },
+    {
+      "aid": 987654322,
+      "bvid": "BV1xxxxxx2",
+      "title": "测试视频2 - DIY了一个苹果充电器",
+      "url": "https://www.bilibili.com/video/BV1xxxxxx2",
+      "duration": "8:15",
+      "created": 1703023456,
+      "view": 800000,
+      "danmaku": 3000,
+      "reply": 1500,
+      "pic": "http://example.com/pic2.jpg",
+      "description": "这是另一个测试视频描述"
+    }
+  ]
+}
